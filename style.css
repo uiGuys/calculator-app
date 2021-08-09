@@ -74,7 +74,7 @@ body {
 
 }
 .calculator {
-    background-color: var(--bg-main);
+    
     font-family: 'Spartan', sans-serif;
     margin: auto;
     min-width: 375px;
