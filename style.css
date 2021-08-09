@@ -127,6 +127,7 @@ p {
 
 .theme {
     background-color: var(--equals-key);
+    border: none;
     border-radius: 50%;
     display: block;
     height: 1rem;
