@@ -74,7 +74,7 @@ body {
 
 }
 .calculator {
-    
+    background-color: var(--bg-main);
     font-family: 'Spartan', sans-serif;
     margin: auto;
     min-width: 375px;
@@ -127,7 +127,6 @@ p {
 
 .theme {
     background-color: var(--equals-key);
-    border: none;
     border-radius: 50%;
     display: block;
     height: 1rem;
